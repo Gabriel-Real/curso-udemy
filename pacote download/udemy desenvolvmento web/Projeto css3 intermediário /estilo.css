@@ -1,0 +1,38 @@
+/* Modelo de caixa
+*/
+
+
+.Conteudo {
+ border: 1px solid black;
+/* padding-top: 20px;
+ padding-right: 20px;
+ padding-left: 20px;
+ padding-bottom: 20px;
+ width: 400px; */ 
+
+  /*padding: 20px 20px 20px 20px; */ 
+
+  padding: 20px;  
+
+ margin-top: 20px;
+ margin-left: 20px;
+ margin-right: 20px;
+
+  width: 200px;
+
+
+}
+
+
+.Noticia{
+border:  1px solid black;
+width: 500px;
+background-color: red;
+padding: 10px;
+}
+
+h1 {
+border: 5px solid pink;	
+color: blue;
+
+}

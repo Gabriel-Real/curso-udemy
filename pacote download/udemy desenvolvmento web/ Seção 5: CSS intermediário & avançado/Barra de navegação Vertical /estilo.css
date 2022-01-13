@@ -1,0 +1,49 @@
+
+
+  /*Seletor universal
+*{
+	border: 5px solid pink;
+
+}
+
+h1 {
+color: green;
+}
+
+
+p.verde {
+color: pink;
+
+}
+
+
+#cabecalho{
+
+border: 5px solid blue;
+
+}
+
+li>a {
+color: red;
+text-decoration: none;
+
+}
+
+h1+p{
+                 <--- Seletor de irmão adjacente 
+  color: red;
+} 
+
+*/
+ body{
+
+ 	color: green;
+ 	border: 5px solid blue;
+ 	background: pink;	
+ }
+
+ *{
+   border: 6px solid red; 
+
+ }
+
